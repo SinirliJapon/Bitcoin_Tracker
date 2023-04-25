@@ -1,16 +1,7 @@
 # bitcoin_tracker
 
-A new Flutter project.
+Bitcoin-Tracker
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is a a Bitcoin tracker app using Flutter. The app uses an API to fetch the latest Bitcoin prices and allows users to compare various currencies with different types of Bitcoin. With this app, users can stay up-to-date with the latest Bitcoin prices and easily compare Bitcoin values across different currencies.
